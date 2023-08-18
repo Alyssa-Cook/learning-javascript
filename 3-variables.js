@@ -4,8 +4,8 @@ console.log("Variables")
 let a = 5
 
 //Variables get substituted directly where used
-console.log(a+3)
-console.log(1+a)
+console.log(a + 3)
+console.log(1 + a)
 
 //Varables can be reassigned to new values
 a = 6

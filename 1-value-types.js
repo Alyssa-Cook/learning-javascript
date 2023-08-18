@@ -1,8 +1,8 @@
-//Coments 
-// < the two slashes are what help the note be ignored 
+//Coments
+// < the two slashes are what help the note be ignored
 
 /*
-More then 
+More then
 one line
 Coment
 */
@@ -15,6 +15,5 @@ console.log(1.25) //Decimal Number
 console.log(true, false) //Booleans
 console.log(undefined) //Undefined
 console.log(null) //Undefined object
-console.log({a: 2, b: "cat", c: 4}) //Object
+console.log({ a: 2, b: "cat", c: 4 }) //Object
 console.log(["cat", "dog"]) //Arrays (lists)
-

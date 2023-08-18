@@ -1,5 +1,5 @@
 /*
-Mathematical operators get the 
+Mathematical operators get the
 */
 console.log("Mathematical Operators")
 console.log(2 + 3)
@@ -19,7 +19,7 @@ console.log("cat" + "dog")
 /*
 Comparison operators take two numbers and result in a boolean
 */
-console.log("Comparison Operators") 
+console.log("Comparison Operators")
 console.log(2 < 3)
 console.log(3 > 2)
 console.log(3 <= 3)
@@ -31,8 +31,8 @@ console.log(7 != 8) //Not equal
 Boolean operators take two booleans and result in a boolean
 */
 console.log("Boolean operator")
-console.log(4<5 && 5>4) //And - both sides have to be true
+console.log(4 < 5 && 5 > 4) //And - both sides have to be true
 console.log(true && true)
-console.log(7<5 || 3>4) //Or - at least one side has to be true
+console.log(7 < 5 || 3 > 4) //Or - at least one side has to be true
 console.log(true || false)
 console.log(!true) //Inverts the boolean
